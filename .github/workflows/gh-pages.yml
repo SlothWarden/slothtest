@@ -1,6 +1,6 @@
 # .github/workflows/gh-pages.yml
 
-name: GitHub Pages
+name: Run page
 
 on:
   push:
