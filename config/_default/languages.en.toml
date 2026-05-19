@@ -19,7 +19,6 @@ image = "among.png"
 headline = "Mr. Smarty Pants"
 bio = "I love coding, playing video games, and reading!"
   links = [
-      { email = "mailto:slothwarden@gmail.com" },
       { github = "https://github.com/SlothWarden" }
 
   ]
